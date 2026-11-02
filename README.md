@@ -1,4 +1,4 @@
-# peptide-store
+# the-peptide-bench
 
 Research-use-only peptide storefront. Next.js 15 (App Router), Tailwind 4, static generation, Cloudflare target.
 Design and data rules live in `../design-direction.md`; the compliance posture is on `/compliance`.

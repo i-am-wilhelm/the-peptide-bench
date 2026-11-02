@@ -1,0 +1,2448 @@
+{
+  "meta": {
+    "supplier": "Aspen Wholesale",
+    "phone": "678.900.3757",
+    "email": "info@aspenwholesale.com",
+    "shipping": "$35 per order; free over $300",
+    "white_label": "+$5 per vial, MOQ 100+ vials per SKU",
+    "nasal_spray_note": "Purchaser must use their own label",
+    "source": "LIVE RUO PEPTIDE LIST (received 2026-10-28)"
+  },
+  "products": [
+    {
+      "sku": "5-amino-1-10mg",
+      "name": "5 Amino 1 10mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Mitochondrial & metabolic compounds",
+      "supplier_categories": [
+        "Metabolism and Energy"
+      ],
+      "coa_ref": "5 Amino 1 10mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 34.0,
+        "26-100": 27.2,
+        "101-300": 24.65,
+        "301-749": 21.68,
+        "750-1000": 20.83
+      },
+      "flags": []
+    },
+    {
+      "sku": "5-amino-1-50mg",
+      "name": "5 Amino 1 50mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Mitochondrial & metabolic compounds",
+      "supplier_categories": [
+        "Metabolism and Energy"
+      ],
+      "coa_ref": "5 Amino 1 50mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 42.0,
+        "26-100": 33.6,
+        "101-300": 30.45,
+        "301-749": 26.78,
+        "750-1000": 25.73
+      },
+      "flags": []
+    },
+    {
+      "sku": "ahk-cu-50mg",
+      "name": "AHK-CU 50mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Copper peptides",
+      "supplier_categories": [],
+      "coa_ref": "AHK-CU 50mg COA",
+      "coming_soon": true,
+      "cost": {
+        "1-25": 30.0,
+        "26-100": 24.0,
+        "101-300": 21.75,
+        "301-749": 19.13,
+        "750-1000": 18.38
+      },
+      "flags": []
+    },
+    {
+      "sku": "ahk-cu-100mg",
+      "name": "AHK-CU 100mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Copper peptides",
+      "supplier_categories": [],
+      "coa_ref": "AHK-CU 100mg COA",
+      "coming_soon": true,
+      "cost": {
+        "1-25": 36.0,
+        "26-100": 28.8,
+        "101-300": 26.1,
+        "301-749": 22.95,
+        "750-1000": 22.05
+      },
+      "flags": []
+    },
+    {
+      "sku": "aod9604-5mg",
+      "name": "AOD9604 5mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "GH secretagogues & GHRH analogs",
+      "supplier_categories": [
+        "Metabolism and Energy"
+      ],
+      "coa_ref": "AOD9604 5mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 54.0,
+        "26-100": 43.2,
+        "101-300": 39.15,
+        "301-749": 34.43,
+        "750-1000": 33.08
+      },
+      "flags": []
+    },
+    {
+      "sku": "aod9604-10mg",
+      "name": "AOD9604 10mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "GH secretagogues & GHRH analogs",
+      "supplier_categories": [
+        "Metabolism and Energy"
+      ],
+      "coa_ref": "AOD9604 10mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 76.0,
+        "26-100": 60.8,
+        "101-300": 55.1,
+        "301-749": 48.45,
+        "750-1000": 46.55
+      },
+      "flags": []
+    },
+    {
+      "sku": "ara-290-10mg",
+      "name": "ARA-290 10MG",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Immune & antimicrobial peptides",
+      "supplier_categories": [],
+      "coa_ref": "ARA-290 10MG COA",
+      "coming_soon": true,
+      "cost": {},
+      "flags": [
+        "no price listed"
+      ]
+    },
+    {
+      "sku": "bac-water-10ml",
+      "name": "BAC Water 10mL",
+      "format": "supply",
+      "sprays": null,
+      "research_class": "Laboratory supplies",
+      "supplier_categories": [],
+      "coa_ref": "BAC Water 10mL COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 16.0,
+        "26-100": 12.8,
+        "101-300": 11.6,
+        "301-749": 10.2,
+        "750-1000": 9.8
+      },
+      "flags": []
+    },
+    {
+      "sku": "bac-water-30ml",
+      "name": "BAC Water 30mL",
+      "format": "supply",
+      "sprays": null,
+      "research_class": "Laboratory supplies",
+      "supplier_categories": [],
+      "coa_ref": "BAC Water 30mL COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 28.0,
+        "26-100": 22.4,
+        "101-300": 20.3,
+        "301-749": 17.85,
+        "750-1000": 17.15
+      },
+      "flags": []
+    },
+    {
+      "sku": "bpc-157-5mg",
+      "name": "BPC-157 5mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Tissue repair peptides & blends",
+      "supplier_categories": [
+        "Recovery and Tissue Support"
+      ],
+      "coa_ref": "BPC-157 5mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 30.0,
+        "26-100": 24.0,
+        "101-300": 21.75,
+        "301-749": 19.13,
+        "750-1000": 18.38
+      },
+      "flags": []
+    },
+    {
+      "sku": "bpc-157-10mg",
+      "name": "BPC-157 10mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Tissue repair peptides & blends",
+      "supplier_categories": [
+        "Recovery and Tissue Support"
+      ],
+      "coa_ref": "BPC-157 10mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 34.0,
+        "26-100": 27.2,
+        "101-300": 24.65,
+        "301-749": 21.68,
+        "750-1000": 20.83
+      },
+      "flags": []
+    },
+    {
+      "sku": "bpc-157-20mg",
+      "name": "BPC-157 20mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Tissue repair peptides & blends",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 55.25,
+        "26-100": 35.36,
+        "101-300": 32.05,
+        "301-749": 28.18,
+        "750-1000": 27.07
+      },
+      "flags": [
+        "no COA listed",
+        "tier-1 price off the usual 80% ladder; confirm with Aspen"
+      ]
+    },
+    {
+      "sku": "wolverine-bpc-tb500-10-10",
+      "name": "Wolverine BPC-157 / TB-500 10mg/10mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Tissue repair peptides & blends",
+      "supplier_categories": [],
+      "coa_ref": "BPC/TB5 10/10 COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 84.0,
+        "26-100": 67.2,
+        "101-300": 60.9,
+        "301-749": 53.55,
+        "750-1000": 51.45
+      },
+      "flags": []
+    },
+    {
+      "sku": "cagrilintide-5mg",
+      "name": "Cagrilintide 5mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Incretin & amylin analogs",
+      "supplier_categories": [],
+      "coa_ref": "Cagrilintide 5mg COA",
+      "coming_soon": true,
+      "cost": {},
+      "flags": [
+        "no price listed"
+      ]
+    },
+    {
+      "sku": "cagrilintide-10mg",
+      "name": "Cagrilintide 10mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Incretin & amylin analogs",
+      "supplier_categories": [],
+      "coa_ref": "Cagrilintide 10mg COA",
+      "coming_soon": true,
+      "cost": {
+        "1-25": 60.0,
+        "26-100": 48.0,
+        "101-300": 43.5,
+        "301-749": 38.25,
+        "750-1000": 36.75
+      },
+      "flags": []
+    },
+    {
+      "sku": "cjc-1295-no-dac-10mg",
+      "name": "CJC-1295 No DAC 10mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "GH secretagogues & GHRH analogs",
+      "supplier_categories": [
+        "Metabolism and Energy"
+      ],
+      "coa_ref": "CJC-1295 No DAC 10mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 62.0,
+        "26-100": 49.6,
+        "101-300": 44.95,
+        "301-749": 39.53,
+        "750-1000": 37.98
+      },
+      "flags": []
+    },
+    {
+      "sku": "cjc-ipa-5mg-5mg",
+      "name": "CJC/IPA 5mg/5mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "GH secretagogues & GHRH analogs",
+      "supplier_categories": [
+        "Metabolism and Energy"
+      ],
+      "coa_ref": "CJC/IPA 5mg/5mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 44.0,
+        "26-100": 35.2,
+        "101-300": 31.9,
+        "301-749": 28.05,
+        "750-1000": 26.95
+      },
+      "flags": []
+    },
+    {
+      "sku": "dihexa-10mg",
+      "name": "Dihexa 10mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Neuropeptides",
+      "supplier_categories": [
+        "Cognitive Reslilience"
+      ],
+      "coa_ref": "Dihexa 10mg COA",
+      "coming_soon": true,
+      "cost": {},
+      "flags": [
+        "no price listed"
+      ]
+    },
+    {
+      "sku": "dsip-5mg",
+      "name": "DSIP 5mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Neuropeptides",
+      "supplier_categories": [
+        "Stress and Mood"
+      ],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 40.87,
+        "26-100": 26.16,
+        "101-300": 23.7,
+        "301-749": 20.84,
+        "750-1000": 20.03
+      },
+      "flags": [
+        "no COA listed",
+        "tier-1 price off the usual 80% ladder; confirm with Aspen"
+      ]
+    },
+    {
+      "sku": "dsip-10mg",
+      "name": "DSIP 10mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Neuropeptides",
+      "supplier_categories": [
+        "Stress and Mood"
+      ],
+      "coa_ref": "DSIP 10mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 46.0,
+        "26-100": 36.8,
+        "101-300": 33.35,
+        "301-749": 29.33,
+        "750-1000": 28.18
+      },
+      "flags": []
+    },
+    {
+      "sku": "epitalon-10mg",
+      "name": "Epitalon 10mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Bioregulator peptides",
+      "supplier_categories": [
+        "Longevity and Cellular Health"
+      ],
+      "coa_ref": "Epitalon 10mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 38.0,
+        "26-100": 30.4,
+        "101-300": 27.55,
+        "301-749": 24.23,
+        "750-1000": 23.28
+      },
+      "flags": []
+    },
+    {
+      "sku": "epitalon-50mg",
+      "name": "Epitalon 50mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Bioregulator peptides",
+      "supplier_categories": [
+        "Longevity and Cellular Health"
+      ],
+      "coa_ref": "Epitalon 50mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 66.0,
+        "26-100": 52.8,
+        "101-300": 47.85,
+        "301-749": 42.08,
+        "750-1000": 40.43
+      },
+      "flags": []
+    },
+    {
+      "sku": "ghk-cu-50mg",
+      "name": "GHK-CU 50mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Copper peptides",
+      "supplier_categories": [
+        "Recovery and Tissue Support"
+      ],
+      "coa_ref": "GHK-CU 50mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 30.0,
+        "26-100": 24.0,
+        "101-300": 21.75,
+        "301-749": 19.13,
+        "750-1000": 18.38
+      },
+      "flags": []
+    },
+    {
+      "sku": "ghk-cu-100mg",
+      "name": "GHK-CU 100mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Copper peptides",
+      "supplier_categories": [
+        "Recovery and Tissue Support"
+      ],
+      "coa_ref": "GHK-CU 100mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 38.0,
+        "26-100": 30.4,
+        "101-300": 27.55,
+        "301-749": 24.23,
+        "750-1000": 23.28
+      },
+      "flags": []
+    },
+    {
+      "sku": "ghrp-2-10mg",
+      "name": "GHRP-2 10mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "GH secretagogues & GHRH analogs",
+      "supplier_categories": [],
+      "coa_ref": "GHRP-2 10mg COA",
+      "coming_soon": true,
+      "cost": {
+        "1-25": 32.0,
+        "26-100": 25.6,
+        "101-300": 23.2,
+        "301-749": 20.4,
+        "750-1000": 19.6
+      },
+      "flags": []
+    },
+    {
+      "sku": "ghrp-6-10mg",
+      "name": "GHRP-6 10mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "GH secretagogues & GHRH analogs",
+      "supplier_categories": [],
+      "coa_ref": "GHRP-6 10mg COA",
+      "coming_soon": true,
+      "cost": {
+        "1-25": 34.0,
+        "26-100": 27.2,
+        "101-300": 24.65,
+        "301-749": 21.68,
+        "750-1000": 20.83
+      },
+      "flags": []
+    },
+    {
+      "sku": "glow-70mg",
+      "name": "Glow 70mg (50mg GHK-Cu / 10mg BPC-157 / 10mg TB-500)",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Tissue repair peptides & blends",
+      "supplier_categories": [],
+      "coa_ref": "Glow COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 78.0,
+        "26-100": 62.4,
+        "101-300": 56.55,
+        "301-749": 49.73,
+        "750-1000": 47.78
+      },
+      "flags": []
+    },
+    {
+      "sku": "glutathione-500mg",
+      "name": "Glutathione 500mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Mitochondrial & metabolic compounds",
+      "supplier_categories": [],
+      "coa_ref": "Glutathione 600mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 38.0,
+        "26-100": 30.4,
+        "101-300": 27.55,
+        "301-749": 24.23,
+        "750-1000": 23.28
+      },
+      "flags": [
+        "COA label mismatch: 'Glutathione 600mg COA'"
+      ]
+    },
+    {
+      "sku": "glutathione-1000mg",
+      "name": "Glutathione 1000mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Mitochondrial & metabolic compounds",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 46.78,
+        "26-100": 33.14,
+        "101-300": 30.03,
+        "301-749": 26.41,
+        "750-1000": 25.37
+      },
+      "flags": [
+        "no COA listed",
+        "tier-1 price off the usual 80% ladder; confirm with Aspen"
+      ]
+    },
+    {
+      "sku": "glutathione-1500mg",
+      "name": "Glutathione 1500mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Mitochondrial & metabolic compounds",
+      "supplier_categories": [],
+      "coa_ref": "Glutathione 1500mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 50.0,
+        "26-100": 40.0,
+        "101-300": 36.25,
+        "301-749": 31.88,
+        "750-1000": 30.63
+      },
+      "flags": []
+    },
+    {
+      "sku": "igf-lr3-1mg",
+      "name": "IGF-LR3 1mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "GH secretagogues & GHRH analogs",
+      "supplier_categories": [],
+      "coa_ref": "IGF-LR3 1mg COA",
+      "coming_soon": true,
+      "cost": {
+        "1-25": 58.0,
+        "26-100": 46.4,
+        "101-300": 42.05,
+        "301-749": 36.98,
+        "750-1000": 35.53
+      },
+      "flags": []
+    },
+    {
+      "sku": "ipamorelin-5mg",
+      "name": "Ipamorelin 5mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "GH secretagogues & GHRH analogs",
+      "supplier_categories": [],
+      "coa_ref": "Ipamorelin 5mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 30.0,
+        "26-100": 24.0,
+        "101-300": 21.75,
+        "301-749": 19.13,
+        "750-1000": 18.38
+      },
+      "flags": []
+    },
+    {
+      "sku": "ipamorelin-10mg",
+      "name": "Ipamorelin 10mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "GH secretagogues & GHRH analogs",
+      "supplier_categories": [],
+      "coa_ref": "Ipamorelin 10mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 44.0,
+        "26-100": 35.2,
+        "101-300": 31.9,
+        "301-749": 28.05,
+        "750-1000": 26.95
+      },
+      "flags": []
+    },
+    {
+      "sku": "kisspeptin-5mg",
+      "name": "Kisspeptin 5mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Neuroendocrine peptides",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 42.73,
+        "26-100": 27.35,
+        "101-300": 24.78,
+        "301-749": 21.79,
+        "750-1000": 20.94
+      },
+      "flags": [
+        "no COA listed",
+        "tier-1 price off the usual 80% ladder; confirm with Aspen"
+      ]
+    },
+    {
+      "sku": "kisspeptin-10mg",
+      "name": "Kisspeptin 10mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Neuroendocrine peptides",
+      "supplier_categories": [],
+      "coa_ref": "Kisspeptin 10mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 50.0,
+        "26-100": 40.0,
+        "101-300": 36.25,
+        "301-749": 31.88,
+        "750-1000": 30.63
+      },
+      "flags": []
+    },
+    {
+      "sku": "klow-80mg",
+      "name": "KLOW 80mg (50mg GHK-Cu / 10mg BPC-157 / 10mg TB-500 / 10mg KPV)",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Tissue repair peptides & blends",
+      "supplier_categories": [],
+      "coa_ref": "KLOW COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 82.0,
+        "26-100": 65.6,
+        "101-300": 59.45,
+        "301-749": 52.28,
+        "750-1000": 50.23
+      },
+      "flags": []
+    },
+    {
+      "sku": "kpv-10mg",
+      "name": "KPV 10mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Immune & antimicrobial peptides",
+      "supplier_categories": [
+        "Immune and Food Sensitivity"
+      ],
+      "coa_ref": "KPV 10mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 44.0,
+        "26-100": 35.2,
+        "101-300": 31.9,
+        "301-749": 28.05,
+        "750-1000": 26.95
+      },
+      "flags": []
+    },
+    {
+      "sku": "ll-37",
+      "name": "LL-37",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Immune & antimicrobial peptides",
+      "supplier_categories": [],
+      "coa_ref": "LL-37 COA",
+      "coming_soon": true,
+      "cost": {
+        "1-25": 40.0,
+        "26-100": 32.0,
+        "101-300": 29.0,
+        "301-749": 25.5,
+        "750-1000": 24.5
+      },
+      "flags": []
+    },
+    {
+      "sku": "melanotan-ii-10mg",
+      "name": "Melanotan II 10mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Melanocortin analogs",
+      "supplier_categories": [],
+      "coa_ref": "Melanotan II 10mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 36.0,
+        "26-100": 28.8,
+        "101-300": 26.1,
+        "301-749": 22.95,
+        "750-1000": 22.05
+      },
+      "flags": []
+    },
+    {
+      "sku": "mots-c-10mg",
+      "name": "MOTS-C 10mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Mitochondrial & metabolic compounds",
+      "supplier_categories": [
+        "Metabolism and Energy",
+        "Longevity and Cellular Health"
+      ],
+      "coa_ref": "MOTS-C 10mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 42.0,
+        "26-100": 33.6,
+        "101-300": 30.45,
+        "301-749": 26.78,
+        "750-1000": 25.73
+      },
+      "flags": []
+    },
+    {
+      "sku": "mots-c-20mg",
+      "name": "MOTS-C 20mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Mitochondrial & metabolic compounds",
+      "supplier_categories": [
+        "Metabolism and Energy",
+        "Longevity and Cellular Health"
+      ],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 56.78,
+        "26-100": 36.34,
+        "101-300": 32.93,
+        "301-749": 28.96,
+        "750-1000": 27.82
+      },
+      "flags": [
+        "no COA listed",
+        "tier-1 price off the usual 80% ladder; confirm with Aspen"
+      ]
+    },
+    {
+      "sku": "mots-c-40mg",
+      "name": "MOTS-C 40mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Mitochondrial & metabolic compounds",
+      "supplier_categories": [
+        "Metabolism and Energy",
+        "Longevity and Cellular Health"
+      ],
+      "coa_ref": "MOTS-C 40mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 80.0,
+        "26-100": 64.0,
+        "101-300": 58.0,
+        "301-749": 51.0,
+        "750-1000": 49.0
+      },
+      "flags": []
+    },
+    {
+      "sku": "nad-500mg",
+      "name": "NAD+ 500mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Mitochondrial & metabolic compounds",
+      "supplier_categories": [
+        "Longevity and Cellular Health"
+      ],
+      "coa_ref": "NAD+ 500mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 42.0,
+        "26-100": 33.6,
+        "101-300": 30.45,
+        "301-749": 26.78,
+        "750-1000": 25.73
+      },
+      "flags": []
+    },
+    {
+      "sku": "nad-1000mg",
+      "name": "NAD+ 1000mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Mitochondrial & metabolic compounds",
+      "supplier_categories": [
+        "Longevity and Cellular Health"
+      ],
+      "coa_ref": "NAD+ 1000mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 66.0,
+        "26-100": 52.8,
+        "101-300": 47.85,
+        "301-749": 42.08,
+        "750-1000": 40.43
+      },
+      "flags": []
+    },
+    {
+      "sku": "nad-1500mg",
+      "name": "NAD+ 1500mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Mitochondrial & metabolic compounds",
+      "supplier_categories": [
+        "Longevity and Cellular Health"
+      ],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 83.33,
+        "26-100": 53.33,
+        "101-300": 48.33,
+        "301-749": 42.5,
+        "750-1000": 40.83
+      },
+      "flags": [
+        "no COA listed",
+        "tier-1 price off the usual 80% ladder; confirm with Aspen"
+      ]
+    },
+    {
+      "sku": "oxytocin-10mg",
+      "name": "Oxytocin 10mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Neuropeptides",
+      "supplier_categories": [
+        "Stress and Mood"
+      ],
+      "coa_ref": "Oxytocin 10mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 50.0,
+        "26-100": 40.0,
+        "101-300": 36.25,
+        "301-749": 31.88,
+        "750-1000": 30.63
+      },
+      "flags": []
+    },
+    {
+      "sku": "pt-141-10mg",
+      "name": "PT-141 10mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Melanocortin analogs",
+      "supplier_categories": [],
+      "coa_ref": "PT-141 10mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 50.0,
+        "26-100": 40.0,
+        "101-300": 36.25,
+        "301-749": 31.88,
+        "750-1000": 30.63
+      },
+      "flags": []
+    },
+    {
+      "sku": "retatrutide-10mg",
+      "name": "Retatrutide 10mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Incretin & amylin analogs",
+      "supplier_categories": [],
+      "coa_ref": "Retatrutide 10mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 44.0,
+        "26-100": 35.2,
+        "101-300": 31.9,
+        "301-749": 28.05,
+        "750-1000": 26.95
+      },
+      "flags": []
+    },
+    {
+      "sku": "retatrutide-20mg",
+      "name": "Retatrutide 20mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Incretin & amylin analogs",
+      "supplier_categories": [],
+      "coa_ref": "Retatrutide 20mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 60.0,
+        "26-100": 48.0,
+        "101-300": 43.5,
+        "301-749": 38.25,
+        "750-1000": 36.75
+      },
+      "flags": []
+    },
+    {
+      "sku": "retatrutide-30mg",
+      "name": "Retatrutide 30mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Incretin & amylin analogs",
+      "supplier_categories": [],
+      "coa_ref": "Retatrutide 30mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 70.0,
+        "26-100": 56.0,
+        "101-300": 50.75,
+        "301-749": 44.63,
+        "750-1000": 42.88
+      },
+      "flags": []
+    },
+    {
+      "sku": "retatrutide-60mg",
+      "name": "Retatrutide 60mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Incretin & amylin analogs",
+      "supplier_categories": [],
+      "coa_ref": "Retatrutide 60mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 112.0,
+        "26-100": 89.6,
+        "101-300": 81.2,
+        "301-749": 71.4,
+        "750-1000": 68.6
+      },
+      "flags": []
+    },
+    {
+      "sku": "selank-10mg",
+      "name": "Selank 10mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Neuropeptides",
+      "supplier_categories": [
+        "Stress and Mood",
+        "Cognitive Reslilience"
+      ],
+      "coa_ref": "Selank 10mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 36.0,
+        "26-100": 28.8,
+        "101-300": 26.1,
+        "301-749": 22.95,
+        "750-1000": 22.05
+      },
+      "flags": []
+    },
+    {
+      "sku": "selank-30mg",
+      "name": "Selank 30mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Neuropeptides",
+      "supplier_categories": [
+        "Stress and Mood",
+        "Cognitive Reslilience"
+      ],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 64.31,
+        "26-100": 41.16,
+        "101-300": 37.3,
+        "301-749": 32.8,
+        "750-1000": 31.51
+      },
+      "flags": [
+        "no COA listed",
+        "tier-1 price off the usual 80% ladder; confirm with Aspen"
+      ]
+    },
+    {
+      "sku": "semaglutide-5mg",
+      "name": "Semaglutide 5mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Incretin & amylin analogs",
+      "supplier_categories": [
+        "Metabolism and Energy"
+      ],
+      "coa_ref": "Semaglutide 5mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 30.0,
+        "26-100": 24.0,
+        "101-300": 21.75,
+        "301-749": 19.13,
+        "750-1000": 18.38
+      },
+      "flags": []
+    },
+    {
+      "sku": "semaglutide-10mg",
+      "name": "Semaglutide 10mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Incretin & amylin analogs",
+      "supplier_categories": [
+        "Metabolism and Energy"
+      ],
+      "coa_ref": "Semaglutide 10mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 38.0,
+        "26-100": 30.4,
+        "101-300": 27.55,
+        "301-749": 24.23,
+        "750-1000": 23.28
+      },
+      "flags": []
+    },
+    {
+      "sku": "semaglutide-20mg",
+      "name": "Semaglutide 20mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Incretin & amylin analogs",
+      "supplier_categories": [
+        "Metabolism and Energy"
+      ],
+      "coa_ref": "Semaglutide 20mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 54.0,
+        "26-100": 43.2,
+        "101-300": 39.15,
+        "301-749": 34.43,
+        "750-1000": 33.08
+      },
+      "flags": []
+    },
+    {
+      "sku": "semaglutide-30mg",
+      "name": "Semaglutide 30mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Incretin & amylin analogs",
+      "supplier_categories": [
+        "Metabolism and Energy"
+      ],
+      "coa_ref": "Semaglutide 30mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 72.0,
+        "26-100": 57.6,
+        "101-300": 52.2,
+        "301-749": 45.9,
+        "750-1000": 44.1
+      },
+      "flags": []
+    },
+    {
+      "sku": "semax-10mg",
+      "name": "Semax 10mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Neuropeptides",
+      "supplier_categories": [
+        "Stress and Mood",
+        "Cognitive Reslilience"
+      ],
+      "coa_ref": "Semax 10mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 36.0,
+        "26-100": 28.8,
+        "101-300": 26.1,
+        "301-749": 22.95,
+        "750-1000": 22.05
+      },
+      "flags": []
+    },
+    {
+      "sku": "semax-30mg",
+      "name": "Semax 30mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Neuropeptides",
+      "supplier_categories": [
+        "Stress and Mood",
+        "Cognitive Reslilience"
+      ],
+      "coa_ref": "Semax 30mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 62.0,
+        "26-100": 49.6,
+        "101-300": 44.95,
+        "301-749": 39.53,
+        "750-1000": 37.98
+      },
+      "flags": []
+    },
+    {
+      "sku": "sermorelin-10mg",
+      "name": "Sermorelin 10mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "GH secretagogues & GHRH analogs",
+      "supplier_categories": [],
+      "coa_ref": "Sermorelin 10mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 54.0,
+        "26-100": 43.2,
+        "101-300": 39.15,
+        "301-749": 34.43,
+        "750-1000": 33.08
+      },
+      "flags": []
+    },
+    {
+      "sku": "sermorelin-20mg",
+      "name": "Sermorelin 20mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "GH secretagogues & GHRH analogs",
+      "supplier_categories": [],
+      "coa_ref": "Sermorelin 20mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 92.0,
+        "26-100": 73.6,
+        "101-300": 66.7,
+        "301-749": 58.65,
+        "750-1000": 56.35
+      },
+      "flags": []
+    },
+    {
+      "sku": "ss-31-10mg",
+      "name": "SS-31 10mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Mitochondrial & metabolic compounds",
+      "supplier_categories": [
+        "Longevity and Cellular Health"
+      ],
+      "coa_ref": "SS-31 10mg COA",
+      "coming_soon": true,
+      "cost": {
+        "1-25": 58.0,
+        "26-100": 46.4,
+        "101-300": 42.05,
+        "301-749": 36.98,
+        "750-1000": 35.53
+      },
+      "flags": []
+    },
+    {
+      "sku": "ss-31-50mg",
+      "name": "SS-31 50mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Mitochondrial & metabolic compounds",
+      "supplier_categories": [
+        "Longevity and Cellular Health"
+      ],
+      "coa_ref": "SS-31 50mg COA",
+      "coming_soon": true,
+      "cost": {
+        "1-25": 130.0,
+        "26-100": 104.0,
+        "101-300": 94.25,
+        "301-749": 82.88,
+        "750-1000": 79.63
+      },
+      "flags": []
+    },
+    {
+      "sku": "tb-500-5mg",
+      "name": "TB-500 5mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Tissue repair peptides & blends",
+      "supplier_categories": [
+        "Recovery and Tissue Support"
+      ],
+      "coa_ref": "TB-500 5mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 54.0,
+        "26-100": 43.2,
+        "101-300": 39.15,
+        "301-749": 34.43,
+        "750-1000": 33.08
+      },
+      "flags": []
+    },
+    {
+      "sku": "tb-500-10mg",
+      "name": "TB-500 10mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Tissue repair peptides & blends",
+      "supplier_categories": [
+        "Recovery and Tissue Support"
+      ],
+      "coa_ref": "TB-500 10mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 90.0,
+        "26-100": 72.0,
+        "101-300": 65.25,
+        "301-749": 57.38,
+        "750-1000": 55.13
+      },
+      "flags": []
+    },
+    {
+      "sku": "tesamorelin-10mg",
+      "name": "Tesamorelin 10mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "GH secretagogues & GHRH analogs",
+      "supplier_categories": [
+        "Metabolism and Energy"
+      ],
+      "coa_ref": "Tesamorelin 10mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 90.0,
+        "26-100": 72.0,
+        "101-300": 65.25,
+        "301-749": 57.38,
+        "750-1000": 55.13
+      },
+      "flags": []
+    },
+    {
+      "sku": "tesamorelin-20mg",
+      "name": "Tesamorelin 20mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "GH secretagogues & GHRH analogs",
+      "supplier_categories": [
+        "Metabolism and Energy"
+      ],
+      "coa_ref": "Tesamorelin 20mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 120.0,
+        "26-100": 96.0,
+        "101-300": 87.0,
+        "301-749": 76.5,
+        "750-1000": 73.5
+      },
+      "flags": []
+    },
+    {
+      "sku": "tesa-ipa-6-3mg",
+      "name": "Tesa/ipa 6/3mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "GH secretagogues & GHRH analogs",
+      "supplier_categories": [],
+      "coa_ref": "Tesa/ipa 6/3mg COA",
+      "coming_soon": true,
+      "cost": {
+        "1-25": 70.0,
+        "26-100": 56.0,
+        "101-300": 50.75,
+        "301-749": 44.63,
+        "750-1000": 42.88
+      },
+      "flags": []
+    },
+    {
+      "sku": "tesa-ipa-13-3mg",
+      "name": "Tesa/ipa 13/3mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "GH secretagogues & GHRH analogs",
+      "supplier_categories": [],
+      "coa_ref": "Tesa/ipa 13/3mg COA",
+      "coming_soon": true,
+      "cost": {
+        "1-25": 130.0,
+        "26-100": 104.0,
+        "101-300": 94.25,
+        "301-749": 82.88,
+        "750-1000": 79.63
+      },
+      "flags": []
+    },
+    {
+      "sku": "thymosin-alpha-1-10mg",
+      "name": "Thymosin Alpha-1 10mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Immune & antimicrobial peptides",
+      "supplier_categories": [
+        "Recovery and Tissue Support",
+        "Immune and Food Sensitivity"
+      ],
+      "coa_ref": "Thymosin Alpha-1 10mg COA",
+      "coming_soon": true,
+      "cost": {
+        "1-25": 54.0,
+        "26-100": 43.2,
+        "101-300": 39.15,
+        "301-749": 34.43,
+        "750-1000": 33.08
+      },
+      "flags": []
+    },
+    {
+      "sku": "tirzepatide-10mg",
+      "name": "Tirzepatide 10mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Incretin & amylin analogs",
+      "supplier_categories": [],
+      "coa_ref": "Tirzepatide 10mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 34.0,
+        "26-100": 27.2,
+        "101-300": 24.65,
+        "301-749": 21.68,
+        "750-1000": 20.83
+      },
+      "flags": []
+    },
+    {
+      "sku": "tirzepatide-20mg",
+      "name": "Tirzepatide 20mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Incretin & amylin analogs",
+      "supplier_categories": [],
+      "coa_ref": "Tirzepatide 20mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 40.0,
+        "26-100": 32.0,
+        "101-300": 29.0,
+        "301-749": 25.5,
+        "750-1000": 24.5
+      },
+      "flags": []
+    },
+    {
+      "sku": "tirzepatide-30mg",
+      "name": "Tirzepatide 30mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Incretin & amylin analogs",
+      "supplier_categories": [],
+      "coa_ref": "Tirzepatide 30mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 70.0,
+        "26-100": 56.0,
+        "101-300": 50.75,
+        "301-749": 44.63,
+        "750-1000": 42.88
+      },
+      "flags": []
+    },
+    {
+      "sku": "tirzepatide-60mg",
+      "name": "Tirzepatide 60mg",
+      "format": "vial",
+      "sprays": null,
+      "research_class": "Incretin & amylin analogs",
+      "supplier_categories": [],
+      "coa_ref": "Tirzepatide 60mg COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 100.0,
+        "26-100": 80.0,
+        "101-300": 72.5,
+        "301-749": 63.75,
+        "750-1000": 61.25
+      },
+      "flags": []
+    },
+    {
+      "sku": "1-ml-insulin-syringes-10ct",
+      "name": "1 mL Insulin Syringes - 10ct",
+      "format": "supply",
+      "sprays": null,
+      "research_class": "Laboratory supplies",
+      "supplier_categories": [],
+      "coa_ref": "1 mL Insulin Syringes - 10ct COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 20.0,
+        "26-100": 16.0,
+        "101-300": 14.5,
+        "301-749": 12.75,
+        "750-1000": 12.25
+      },
+      "flags": []
+    },
+    {
+      "sku": "1-ml-insulin-syringes-20ct",
+      "name": "1 mL Insulin Syringes - 20ct",
+      "format": "supply",
+      "sprays": null,
+      "research_class": "Laboratory supplies",
+      "supplier_categories": [],
+      "coa_ref": "1 mL Insulin Syringes - 20ct COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 26.0,
+        "26-100": 20.8,
+        "101-300": 18.85,
+        "301-749": 16.58,
+        "750-1000": 15.93
+      },
+      "flags": []
+    },
+    {
+      "sku": "3-ml-23g-1-syringes-10ct",
+      "name": "3 mL 23g 1\" Syringes - 10ct",
+      "format": "supply",
+      "sprays": null,
+      "research_class": "Laboratory supplies",
+      "supplier_categories": [],
+      "coa_ref": "3 mL 23g 1\" Syringes - 10ct COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 24.0,
+        "26-100": 19.2,
+        "101-300": 17.4,
+        "301-749": 15.3,
+        "750-1000": 14.7
+      },
+      "flags": []
+    },
+    {
+      "sku": "3-ml-23g-1-syringes-20ct",
+      "name": "3 mL 23g 1\" Syringes - 20ct",
+      "format": "supply",
+      "sprays": null,
+      "research_class": "Laboratory supplies",
+      "supplier_categories": [],
+      "coa_ref": "3 mL 23g 1\" Syringes - 20ct COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 34.0,
+        "26-100": 27.2,
+        "101-300": 24.65,
+        "301-749": 21.68,
+        "750-1000": 20.83
+      },
+      "flags": []
+    },
+    {
+      "sku": "18g-needles-10ct",
+      "name": "18g Needles -10ct",
+      "format": "supply",
+      "sprays": null,
+      "research_class": "Laboratory supplies",
+      "supplier_categories": [],
+      "coa_ref": "18g Needles -10ct COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 20.0,
+        "26-100": 16.0,
+        "101-300": 14.5,
+        "301-749": 12.75,
+        "750-1000": 12.25
+      },
+      "flags": []
+    },
+    {
+      "sku": "18g-needles-20ct",
+      "name": "18g Needles -20ct",
+      "format": "supply",
+      "sprays": null,
+      "research_class": "Laboratory supplies",
+      "supplier_categories": [],
+      "coa_ref": "18g Needles -20ct COA",
+      "coming_soon": false,
+      "cost": {
+        "1-25": 26.0,
+        "26-100": 20.8,
+        "101-300": 18.85,
+        "301-749": 16.58,
+        "750-1000": 15.93
+      },
+      "flags": []
+    },
+    {
+      "sku": "5-amino-1-50mg-45-sprays-spray",
+      "name": "5 Amino 1 - 50mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "Mitochondrial & metabolic compounds",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 62.0,
+        "26-100": 49.6,
+        "101-300": 44.95,
+        "301-749": 39.53,
+        "750-1000": 37.98
+      },
+      "flags": []
+    },
+    {
+      "sku": "aod9604-5mg-45-sprays-spray",
+      "name": "AOD9604 5mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "GH secretagogues & GHRH analogs",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 74.0,
+        "26-100": 59.2,
+        "101-300": 53.65,
+        "301-749": 47.18,
+        "750-1000": 45.33
+      },
+      "flags": []
+    },
+    {
+      "sku": "aod9604-10mg-45-sprays-spray",
+      "name": "AOD9604 10mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "GH secretagogues & GHRH analogs",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 96.0,
+        "26-100": 76.8,
+        "101-300": 69.6,
+        "301-749": 61.2,
+        "750-1000": 58.8
+      },
+      "flags": []
+    },
+    {
+      "sku": "bpc-157-5mg-45-sprays-spray",
+      "name": "BPC-157 5mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "Tissue repair peptides & blends",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 50.0,
+        "26-100": 40.0,
+        "101-300": 36.25,
+        "301-749": 31.88,
+        "750-1000": 30.63
+      },
+      "flags": []
+    },
+    {
+      "sku": "bpc-157-10mg-45-sprays-spray",
+      "name": "BPC-157 10mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "Tissue repair peptides & blends",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 54.0,
+        "26-100": 43.2,
+        "101-300": 39.15,
+        "301-749": 34.43,
+        "750-1000": 33.08
+      },
+      "flags": []
+    },
+    {
+      "sku": "bpc-tb-500-10mg-10mg-45-sprays-spray",
+      "name": "BPC/TB-500 10mg/10mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "Tissue repair peptides & blends",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 104.0,
+        "26-100": 83.2,
+        "101-300": 75.4,
+        "301-749": 66.3,
+        "750-1000": 63.7
+      },
+      "flags": []
+    },
+    {
+      "sku": "cjc-1295-no-dac-10mg-45-sprays-spray",
+      "name": "CJC-1295 No DAC 10mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "GH secretagogues & GHRH analogs",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 82.0,
+        "26-100": 65.6,
+        "101-300": 59.45,
+        "301-749": 52.28,
+        "750-1000": 50.23
+      },
+      "flags": []
+    },
+    {
+      "sku": "cjc-ipamorelin-5mg-5mg-45-sprays-spray",
+      "name": "CJC/Ipamorelin 5mg/5mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "GH secretagogues & GHRH analogs",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 64.0,
+        "26-100": 51.2,
+        "101-300": 46.4,
+        "301-749": 40.8,
+        "750-1000": 39.2
+      },
+      "flags": []
+    },
+    {
+      "sku": "dsip-10mg-90-sprays-spray",
+      "name": "DSIP 10mg (90 sprays)",
+      "format": "nasal_spray",
+      "sprays": 90,
+      "research_class": "Neuropeptides",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 66.0,
+        "26-100": 52.8,
+        "101-300": 47.85,
+        "301-749": 42.08,
+        "750-1000": 40.43
+      },
+      "flags": []
+    },
+    {
+      "sku": "epithalon-10mg-45-sprays-spray",
+      "name": "Epithalon 10mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "Bioregulator peptides",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 58.0,
+        "26-100": 46.4,
+        "101-300": 42.05,
+        "301-749": 36.98,
+        "750-1000": 35.53
+      },
+      "flags": []
+    },
+    {
+      "sku": "epithalon-50mg-45-sprays-spray",
+      "name": "Epithalon 50mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "Bioregulator peptides",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 86.0,
+        "26-100": 68.8,
+        "101-300": 62.35,
+        "301-749": 54.83,
+        "750-1000": 52.68
+      },
+      "flags": []
+    },
+    {
+      "sku": "ghk-cu-50mg-45-sprays-spray",
+      "name": "GHK-CU 50mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "Copper peptides",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 50.0,
+        "26-100": 40.0,
+        "101-300": 36.25,
+        "301-749": 31.88,
+        "750-1000": 30.63
+      },
+      "flags": []
+    },
+    {
+      "sku": "ghk-cu-100mg-45-sprays-spray",
+      "name": "GHK-CU 100mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "Copper peptides",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 58.0,
+        "26-100": 46.4,
+        "101-300": 42.05,
+        "301-749": 36.98,
+        "750-1000": 35.53
+      },
+      "flags": []
+    },
+    {
+      "sku": "glow-70mg-45-sprays-spray",
+      "name": "Glow 70mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "Tissue repair peptides & blends",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 98.0,
+        "26-100": 78.4,
+        "101-300": 71.05,
+        "301-749": 62.48,
+        "750-1000": 60.03
+      },
+      "flags": []
+    },
+    {
+      "sku": "glutathione-1500mg-45-sprays-spray",
+      "name": "Glutathione 1500mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "Mitochondrial & metabolic compounds",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 70.0,
+        "26-100": 56.0,
+        "101-300": 50.75,
+        "301-749": 44.63,
+        "750-1000": 42.88
+      },
+      "flags": []
+    },
+    {
+      "sku": "ipamorelin-5mg-45-sprays-spray",
+      "name": "Ipamorelin 5mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "GH secretagogues & GHRH analogs",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 50.0,
+        "26-100": 40.0,
+        "101-300": 36.25,
+        "301-749": 31.88,
+        "750-1000": 30.63
+      },
+      "flags": []
+    },
+    {
+      "sku": "ipamorelin-10mg-45-sprays-spray",
+      "name": "Ipamorelin 10mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "GH secretagogues & GHRH analogs",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 64.0,
+        "26-100": 51.2,
+        "101-300": 46.4,
+        "301-749": 40.8,
+        "750-1000": 39.2
+      },
+      "flags": []
+    },
+    {
+      "sku": "kisspeptin-10mg-45-sprays-spray",
+      "name": "Kisspeptin 10mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "Neuroendocrine peptides",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 70.0,
+        "26-100": 56.0,
+        "101-300": 50.75,
+        "301-749": 44.63,
+        "750-1000": 42.88
+      },
+      "flags": []
+    },
+    {
+      "sku": "klow-80mg",
+      "name": "KLOW 80mg (50mg GHK-Cu / 10mg BPC-157 / 10mg TB-500 / 10mg KPV)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "Tissue repair peptides & blends",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 102.0,
+        "26-100": 81.6,
+        "101-300": 73.95,
+        "301-749": 65.03,
+        "750-1000": 62.48
+      },
+      "flags": []
+    },
+    {
+      "sku": "kpv-10mg-45-sprays-spray",
+      "name": "KPV 10mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "Immune & antimicrobial peptides",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 64.0,
+        "26-100": 51.2,
+        "101-300": 46.4,
+        "301-749": 40.8,
+        "750-1000": 39.2
+      },
+      "flags": []
+    },
+    {
+      "sku": "melanotan-ii-10mg-45-sprays-spray",
+      "name": "Melanotan II 10mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "Melanocortin analogs",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 56.0,
+        "26-100": 44.8,
+        "101-300": 40.6,
+        "301-749": 35.7,
+        "750-1000": 34.3
+      },
+      "flags": []
+    },
+    {
+      "sku": "mots-c-10mg-45-sprays-spray",
+      "name": "MOTS-C 10mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "Mitochondrial & metabolic compounds",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 62.0,
+        "26-100": 49.6,
+        "101-300": 44.95,
+        "301-749": 39.53,
+        "750-1000": 37.98
+      },
+      "flags": []
+    },
+    {
+      "sku": "mots-c-40mg-45-sprays-spray",
+      "name": "MOTS-C 40mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "Mitochondrial & metabolic compounds",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 100.0,
+        "26-100": 80.0,
+        "101-300": 72.5,
+        "301-749": 63.75,
+        "750-1000": 61.25
+      },
+      "flags": []
+    },
+    {
+      "sku": "nad-500mg-45-sprays-spray",
+      "name": "NAD+ 500mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "Mitochondrial & metabolic compounds",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 62.0,
+        "26-100": 49.6,
+        "101-300": 44.95,
+        "301-749": 39.53,
+        "750-1000": 37.98
+      },
+      "flags": []
+    },
+    {
+      "sku": "nad-1000mg-45-sprays-spray",
+      "name": "NAD+ 1000mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "Mitochondrial & metabolic compounds",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 86.0,
+        "26-100": 68.8,
+        "101-300": 62.35,
+        "301-749": 54.83,
+        "750-1000": 52.68
+      },
+      "flags": []
+    },
+    {
+      "sku": "oxytocin-10mg-90-sprays-spray",
+      "name": "Oxytocin 10mg (90 sprays)",
+      "format": "nasal_spray",
+      "sprays": 90,
+      "research_class": "Neuropeptides",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 70.0,
+        "26-100": 56.0,
+        "101-300": 50.75,
+        "301-749": 44.63,
+        "750-1000": 42.88
+      },
+      "flags": []
+    },
+    {
+      "sku": "pt-141-10mg-45-sprays-spray",
+      "name": "PT-141 10mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "Melanocortin analogs",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 70.0,
+        "26-100": 56.0,
+        "101-300": 50.75,
+        "301-749": 44.63,
+        "750-1000": 42.88
+      },
+      "flags": []
+    },
+    {
+      "sku": "retatrutide-10mg-45-sprays-spray",
+      "name": "Retatrutide 10mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "Incretin & amylin analogs",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 64.0,
+        "26-100": 51.2,
+        "101-300": 46.4,
+        "301-749": 40.8,
+        "750-1000": 39.2
+      },
+      "flags": []
+    },
+    {
+      "sku": "retatrutide-20mg-45-sprays-spray",
+      "name": "Retatrutide 20mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "Incretin & amylin analogs",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 80.0,
+        "26-100": 64.0,
+        "101-300": 58.0,
+        "301-749": 51.0,
+        "750-1000": 49.0
+      },
+      "flags": []
+    },
+    {
+      "sku": "retatrutide-30mg-45-sprays-spray",
+      "name": "Retatrutide 30mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "Incretin & amylin analogs",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 90.0,
+        "26-100": 72.0,
+        "101-300": 65.25,
+        "301-749": 57.38,
+        "750-1000": 55.13
+      },
+      "flags": []
+    },
+    {
+      "sku": "retatrutide-60mg-45-sprays-spray",
+      "name": "Retatrutide 60mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "Incretin & amylin analogs",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 132.0,
+        "26-100": 105.6,
+        "101-300": 95.7,
+        "301-749": 84.15,
+        "750-1000": 80.85
+      },
+      "flags": []
+    },
+    {
+      "sku": "selank-10mg-90-sprays-spray",
+      "name": "Selank 10mg (90 sprays)",
+      "format": "nasal_spray",
+      "sprays": 90,
+      "research_class": "Neuropeptides",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 56.0,
+        "26-100": 44.8,
+        "101-300": 40.6,
+        "301-749": 35.7,
+        "750-1000": 34.3
+      },
+      "flags": []
+    },
+    {
+      "sku": "semaglutide-5mg-45-sprays-spray",
+      "name": "Semaglutide 5mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "Incretin & amylin analogs",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 50.0,
+        "26-100": 40.0,
+        "101-300": 36.25,
+        "301-749": 31.88,
+        "750-1000": 30.63
+      },
+      "flags": []
+    },
+    {
+      "sku": "semaglutide-10mg-45-sprays-spray",
+      "name": "Semaglutide 10mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "Incretin & amylin analogs",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 58.0,
+        "26-100": 46.4,
+        "101-300": 42.05,
+        "301-749": 36.98,
+        "750-1000": 35.53
+      },
+      "flags": []
+    },
+    {
+      "sku": "semaglutide-20mg-45-sprays-spray",
+      "name": "Semaglutide 20mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "Incretin & amylin analogs",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 74.0,
+        "26-100": 59.2,
+        "101-300": 53.65,
+        "301-749": 47.18,
+        "750-1000": 45.33
+      },
+      "flags": []
+    },
+    {
+      "sku": "semaglutide-30mg-45-sprays-spray",
+      "name": "Semaglutide 30mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "Incretin & amylin analogs",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 92.0,
+        "26-100": 73.6,
+        "101-300": 66.7,
+        "301-749": 58.65,
+        "750-1000": 56.35
+      },
+      "flags": []
+    },
+    {
+      "sku": "semax-10mg-90-sprays-spray",
+      "name": "Semax 10mg (90 sprays)",
+      "format": "nasal_spray",
+      "sprays": 90,
+      "research_class": "Neuropeptides",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 56.0,
+        "26-100": 44.8,
+        "101-300": 40.6,
+        "301-749": 35.7,
+        "750-1000": 34.3
+      },
+      "flags": []
+    },
+    {
+      "sku": "semax-30mg-90-sprays-spray",
+      "name": "Semax 30mg (90 sprays)",
+      "format": "nasal_spray",
+      "sprays": 90,
+      "research_class": "Neuropeptides",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 82.0,
+        "26-100": 65.6,
+        "101-300": 59.45,
+        "301-749": 52.28,
+        "750-1000": 50.23
+      },
+      "flags": []
+    },
+    {
+      "sku": "sermorelin-10mg-45-sprays-spray",
+      "name": "Sermorelin 10mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "GH secretagogues & GHRH analogs",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 74.0,
+        "26-100": 59.2,
+        "101-300": 53.65,
+        "301-749": 47.18,
+        "750-1000": 45.33
+      },
+      "flags": []
+    },
+    {
+      "sku": "sermorelin-20mg-45-sprays-spray",
+      "name": "Sermorelin 20mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "GH secretagogues & GHRH analogs",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 112.0,
+        "26-100": 89.6,
+        "101-300": 81.2,
+        "301-749": 71.4,
+        "750-1000": 68.6
+      },
+      "flags": []
+    },
+    {
+      "sku": "ss-31-10mg-45-sprays-spray",
+      "name": "SS-31 10mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "Mitochondrial & metabolic compounds",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 78.0,
+        "26-100": 62.4,
+        "101-300": 56.55,
+        "301-749": 49.73,
+        "750-1000": 47.78
+      },
+      "flags": []
+    },
+    {
+      "sku": "ss-31-50mg-45-sprays-spray",
+      "name": "SS-31 50mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "Mitochondrial & metabolic compounds",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 150.0,
+        "26-100": 120.0,
+        "101-300": 108.75,
+        "301-749": 95.63,
+        "750-1000": 91.88
+      },
+      "flags": []
+    },
+    {
+      "sku": "tb-500-5mg-45-sprays-spray",
+      "name": "TB-500 5mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "Tissue repair peptides & blends",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 74.0,
+        "26-100": 59.2,
+        "101-300": 53.65,
+        "301-749": 47.18,
+        "750-1000": 45.33
+      },
+      "flags": []
+    },
+    {
+      "sku": "tb-500-10mg-45-sprays-spray",
+      "name": "TB-500 10mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "Tissue repair peptides & blends",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 110.0,
+        "26-100": 88.0,
+        "101-300": 79.75,
+        "301-749": 70.13,
+        "750-1000": 67.38
+      },
+      "flags": []
+    },
+    {
+      "sku": "tesamorelin-10mg-45-sprays-spray",
+      "name": "Tesamorelin 10mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "GH secretagogues & GHRH analogs",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 110.0,
+        "26-100": 88.0,
+        "101-300": 79.75,
+        "301-749": 70.13,
+        "750-1000": 67.38
+      },
+      "flags": []
+    },
+    {
+      "sku": "tesamorelin-20mg-45-sprays-spray",
+      "name": "Tesamorelin 20mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "GH secretagogues & GHRH analogs",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 140.0,
+        "26-100": 112.0,
+        "101-300": 101.5,
+        "301-749": 89.25,
+        "750-1000": 85.75
+      },
+      "flags": []
+    },
+    {
+      "sku": "tirzepatide-10mg-45-sprays-spray",
+      "name": "Tirzepatide 10mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "Incretin & amylin analogs",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 54.0,
+        "26-100": 43.2,
+        "101-300": 39.15,
+        "301-749": 34.43,
+        "750-1000": 33.08
+      },
+      "flags": []
+    },
+    {
+      "sku": "tirzepatide-20mg-45-sprays-spray",
+      "name": "Tirzepatide 20mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "Incretin & amylin analogs",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 60.0,
+        "26-100": 48.0,
+        "101-300": 43.5,
+        "301-749": 38.25,
+        "750-1000": 36.75
+      },
+      "flags": []
+    },
+    {
+      "sku": "tirzepatide-30mg-45-sprays-spray",
+      "name": "Tirzepatide 30mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "Incretin & amylin analogs",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 90.0,
+        "26-100": 72.0,
+        "101-300": 65.25,
+        "301-749": 57.38,
+        "750-1000": 55.13
+      },
+      "flags": []
+    },
+    {
+      "sku": "tirzepatide-60mg-45-sprays-spray",
+      "name": "Tirzepatide 60mg (45 sprays)",
+      "format": "nasal_spray",
+      "sprays": 45,
+      "research_class": "Incretin & amylin analogs",
+      "supplier_categories": [],
+      "coa_ref": null,
+      "coming_soon": false,
+      "cost": {
+        "1-25": 120.0,
+        "26-100": 96.0,
+        "101-300": 87.0,
+        "301-749": 76.5,
+        "750-1000": 73.5
+      },
+      "flags": []
+    }
+  ]
+}

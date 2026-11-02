@@ -10,13 +10,13 @@
   },
   "observability": { "enabled": true },
   // D1 orders store. Create it, paste the id, uncomment, then apply migrations:
-  //   npx wrangler d1 create peptide-store-orders
-  //   npx wrangler d1 migrations apply peptide-store-orders --remote
+  //   npx wrangler d1 create the-peptide-bench-orders
+  //   npx wrangler d1 migrations apply the-peptide-bench-orders --remote
   // Until this is bound, /api/orders falls back to console.log.
   // "d1_databases": [
   //   {
   //     "binding": "DB",
-  //     "database_name": "peptide-store-orders",
+  //     "database_name": "the-peptide-bench-orders",
   //     "database_id": "<paste id from `wrangler d1 create`>",
   //     "migrations_dir": "migrations"
   //   }

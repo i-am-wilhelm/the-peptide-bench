@@ -1,0 +1,44 @@
+name: Deploy to Cloudflare
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-production
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install
+        run: npm ci
+
+      - name: Build (Next.js)
+        run: npm run build
+
+      - name: Smoke test
+        run: npm run smoke
+
+      - name: Apply D1 migrations (only once the DB binding is live in wrangler.jsonc)
+        run: |
+          if grep -Eq '^\s*"binding":\s*"DB"' wrangler.jsonc; then
+            npx wrangler d1 migrations apply the-peptide-bench-orders --remote
+          else
+            echo "D1 binding not configured yet; skipping migrations."
+          fi
+
+      - name: Build (OpenNext) and deploy
+        run: npx opennextjs-cloudflare build && npx opennextjs-cloudflare deploy

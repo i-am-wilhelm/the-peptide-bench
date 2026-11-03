@@ -10,7 +10,8 @@
     "catalog:sync": "node scripts/sync-catalog.mjs",
     "preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview",
     "deploy": "opennextjs-cloudflare build && opennextjs-cloudflare deploy",
-    "cf-typegen": "wrangler types --env-interface CloudflareEnv cloudflare-env.d.ts"
+    "cf-typegen": "wrangler types --env-interface CloudflareEnv cloudflare-env.d.ts",
+    "smoke": "node scripts/smoke.mjs"
   },
   "dependencies": {
     "@opennextjs/cloudflare": "^1.20.15",

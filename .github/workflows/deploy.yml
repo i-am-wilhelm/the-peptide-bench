@@ -40,5 +40,8 @@ jobs:
             echo "D1 binding not configured yet; skipping migrations."
           fi
 
+      - name: Show token permissions
+        run: npx wrangler whoami
+
       - name: Build (OpenNext) and deploy
         run: npx opennextjs-cloudflare build && npx opennextjs-cloudflare deploy
